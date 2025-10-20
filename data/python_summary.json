@@ -1,0 +1,44 @@
+{
+    "topSuburbs":[
+        {
+            "name":"Plumstead",
+            "averageYield":9.51,
+            "medianPricePerSqM":15288.21,
+            "stdDevYield":1.44,
+            "averagePricePerSqM":22621.28,
+            "propertyCount":36780
+        },
+        {
+            "name":"Salt River",
+            "averageYield":9.51,
+            "medianPricePerSqM":15348.25,
+            "stdDevYield":1.45,
+            "averagePricePerSqM":22762.1,
+            "propertyCount":36981
+        },
+        {
+            "name":"City Bowl",
+            "averageYield":9.51,
+            "medianPricePerSqM":15235.33,
+            "stdDevYield":1.45,
+            "averagePricePerSqM":22704.42,
+            "propertyCount":37093
+        },
+        {
+            "name":"Constantia",
+            "averageYield":9.51,
+            "medianPricePerSqM":15338.65,
+            "stdDevYield":1.45,
+            "averagePricePerSqM":22704.67,
+            "propertyCount":37051
+        },
+        {
+            "name":"Woodstock",
+            "averageYield":9.5,
+            "medianPricePerSqM":15397.89,
+            "stdDevYield":1.44,
+            "averagePricePerSqM":22663.75,
+            "propertyCount":37054
+        }
+    ]
+}

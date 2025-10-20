@@ -1,0 +1,13 @@
+# C#
+[Oo]bj/
+[Bb]in/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data - DO NOT COMMIT THE LARGE CSV
+data/listings.csv
+
+# VSCode
+.vscode/

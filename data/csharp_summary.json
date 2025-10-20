@@ -1,0 +1,44 @@
+{
+  "TopSuburbs": [
+    {
+      "Name": "City Bowl",
+      "AverageYield": 9.51,
+      "MedianPricePerSqM": 15235.33,
+      "StdDevYield": 1.45,
+      "AveragePricePerSqM": 22704.42,
+      "PropertyCount": 37093
+    },
+    {
+      "Name": "Constantia",
+      "AverageYield": 9.51,
+      "MedianPricePerSqM": 15338.65,
+      "StdDevYield": 1.45,
+      "AveragePricePerSqM": 22704.67,
+      "PropertyCount": 37051
+    },
+    {
+      "Name": "Plumstead",
+      "AverageYield": 9.51,
+      "MedianPricePerSqM": 15288.21,
+      "StdDevYield": 1.44,
+      "AveragePricePerSqM": 22621.28,
+      "PropertyCount": 36780
+    },
+    {
+      "Name": "Salt River",
+      "AverageYield": 9.51,
+      "MedianPricePerSqM": 15348.25,
+      "StdDevYield": 1.45,
+      "AveragePricePerSqM": 22762.1,
+      "PropertyCount": 36981
+    },
+    {
+      "Name": "Claremont",
+      "AverageYield": 9.5,
+      "MedianPricePerSqM": 15273.1,
+      "StdDevYield": 1.45,
+      "AveragePricePerSqM": 22733.09,
+      "PropertyCount": 37124
+    }
+  ]
+}
