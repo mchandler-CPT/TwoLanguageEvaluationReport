@@ -44,19 +44,19 @@ The Python script is located in the `python/` folder.
 
 Screenshot of the C# application running successfully:
 
-`![C# App Results](./screenshots/csharp_app_run.png)`
+![C# App Results](./screenshots/csharp_app_run.png)
 
 Screenshot of the C# unit tests passing:
 
-`![C# Test Results](./screenshots/csharp_test_results.png)`
+![C# Test Results](./screenshots/csharp_test_results.png)
 
 
 ### Python Application & Test Results
 
 Screenshot of the Python application running successfully:
 
-`![Python App Results](./screenshots/python_app_run.png)`
+![Python App Results](./screenshots/python_app_run.png)
 
 Screenshot of the Python unit tests passing:
 
-`![Python Test Results](./screenshots/python_test_results.png)`
+![Python Test Results](./screenshots/python_test_results.png)
