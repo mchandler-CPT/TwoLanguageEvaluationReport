@@ -9,12 +9,12 @@
       "PropertyCount": 37093
     },
     {
-      "Name": "Constantia",
+      "Name": "Salt River",
       "AverageYield": 9.51,
-      "MedianPricePerSqM": 15338.65,
+      "MedianPricePerSqM": 15348.25,
       "StdDevYield": 1.45,
-      "AveragePricePerSqM": 22704.67,
-      "PropertyCount": 37051
+      "AveragePricePerSqM": 22762.1,
+      "PropertyCount": 36981
     },
     {
       "Name": "Plumstead",
@@ -25,20 +25,20 @@
       "PropertyCount": 36780
     },
     {
-      "Name": "Salt River",
+      "Name": "Constantia",
       "AverageYield": 9.51,
-      "MedianPricePerSqM": 15348.25,
+      "MedianPricePerSqM": 15338.65,
       "StdDevYield": 1.45,
-      "AveragePricePerSqM": 22762.1,
-      "PropertyCount": 36981
+      "AveragePricePerSqM": 22704.67,
+      "PropertyCount": 37051
     },
     {
-      "Name": "Claremont",
+      "Name": "Observatory",
       "AverageYield": 9.5,
-      "MedianPricePerSqM": 15273.1,
-      "StdDevYield": 1.45,
-      "AveragePricePerSqM": 22733.09,
-      "PropertyCount": 37124
+      "MedianPricePerSqM": 15306,
+      "StdDevYield": 1.44,
+      "AveragePricePerSqM": 22856.78,
+      "PropertyCount": 37213
     }
   ]
 }
